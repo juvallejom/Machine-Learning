@@ -13,4 +13,59 @@
 
     2.2. Dimension aluty reduction
 
-   
+
+SEcond Section.
+
+
+Procesos de DDdeisicon : 
+
+
+Error Fucion or Cost Function : Como evaluar los parametros en el modelo para generar buenas predicciones.
+
+REglas de actualizacon : Como mejorar los parametros para hacer mejores predicciones.
+
+
+
+Normalizacion de valores numericos 
+
+
+
+x= punto - promedio / desvuacion estanddar. 
+
+
+Preparando datos para modleos 
+
+DEl conjuento original de datos se tiene tres gurpos 
+
+Trainig 60-80% datos de los que el modelo aprende patrones
+Validarion 0-20% ddatos que usas para verfiicar que el modelo aprende
+Testing 0-20 datos que se apartanpara revisar si el modelo fue exitoso al predecir
+
+
+REGRESION LOGISTICA. - Preice una clase etiqeuta,
+
+Confusion matrix
+
+Proceso de desición
+
+Funcion de error 
+
+Regla de actulaizacion
+
+
+
+
+REGRESION LiNEAL:
+
+
+ARBOLES DE DESICIÓN,
+
+
+Algotiymos no usperisaos
+
+K--means clustering 
+
+
+Coste function
+
+
